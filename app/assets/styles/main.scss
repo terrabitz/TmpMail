@@ -1,0 +1,16 @@
+$font-stack: Droid Sans, Arial, Helvetica, sans;
+$primary-color: #222;
+
+body {
+  font-family: $font-stack;
+  color: $primary-color;
+}
+
+.hello {
+  color: blue;
+}
+
+a {
+  color: inherit;
+  text-decoration:inherit;
+}

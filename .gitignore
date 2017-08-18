@@ -1,2 +1,4 @@
 app/config.py
 .idea/
+node_modules
+public

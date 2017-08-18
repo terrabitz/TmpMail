@@ -1,5 +1,4 @@
 flask
-aiosmtpd
 cmd2
 cement
 flask-mongoengine
